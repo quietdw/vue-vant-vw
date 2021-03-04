@@ -1,5 +1,44 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro exercitationem fugiat ipsa,
+      tempora voluptatum voluptatibus modi saepe facere quibusdam minima cumque veritatis eum
+      praesentium. Minima nulla reiciendis impedit consequatur eaque!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro exercitationem fugiat ipsa,
+      tempora voluptatum voluptatibus modi saepe facere quibusdam minima cumque veritatis eum
+      praesentium. Minima nulla reiciendis impedit consequatur eaque!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro exercitationem fugiat ipsa,
+      tempora voluptatum voluptatibus modi saepe facere quibusdam minima cumque veritatis eum
+      praesentium. Minima nulla reiciendis impedit consequatur eaque!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro exercitationem fugiat ipsa,
+      tempora voluptatum voluptatibus modi saepe facere quibusdam minima cumque veritatis eum
+      praesentium. Minima nulla reiciendis impedit consequatur eaque!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro exercitationem fugiat ipsa,
+      tempora voluptatum voluptatibus modi saepe facere quibusdam minima cumque veritatis eum
+      praesentium. Minima nulla reiciendis impedit consequatur eaque!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro exercitationem fugiat ipsa,
+      tempora voluptatum voluptatibus modi saepe facere quibusdam minima cumque veritatis eum
+      praesentium. Minima nulla reiciendis impedit consequatur eaque!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro exercitationem fugiat ipsa,
+      tempora voluptatum voluptatibus modi saepe facere quibusdam minima cumque veritatis eum
+      praesentium. Minima nulla reiciendis impedit consequatur eaque!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro exercitationem fugiat ipsa,
+      tempora voluptatum voluptatibus modi saepe facere quibusdam minima cumque veritatis eum
+      praesentium. Minima nulla reiciendis impedit consequatur eaque!
+    </p>
   </div>
 </template>
