@@ -16,10 +16,7 @@ export default {
 
 <style lang="less">
 #app {
-  .content-wrapper {
-    height: calc(100vh - 50px);
-    overflow: auto;
-  }
+  padding-bottom: 50px;
 }
 </style>
 <style>
@@ -31,5 +28,11 @@ export default {
 ::before,
 ::after {
   box-sizing: inherit;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden !important;
 }
 </style>

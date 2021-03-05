@@ -48,21 +48,23 @@ export default {
 </script>
 <style lang="less" scoped>
 .main {
+  overflow-x: hidden;
   .content-wrapper {
     border: solid 1px red;
+    width: 100vw;
+    height: calc(100vh - 50px);
+    overflow: auto;
   }
 }
 </style>
 <style lang="less">
 .page-toggle-enter-active {
   position: absolute !important;
-  animation-duration: 0.8s !important;
-  width: calc(100%) !important;
+  animation-duration: 0.3s !important;
 }
 .page-toggle-leave-active {
   position: absolute !important;
-  animation-duration: 0.8s !important;
-  width: calc(100%) !important;
+  animation-duration: 0.3s !important;
 }
 .page-toggle-enter {
 }
