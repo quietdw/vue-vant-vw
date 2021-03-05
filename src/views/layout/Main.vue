@@ -11,7 +11,7 @@
     <van-tabbar route>
       <van-tabbar-item
         v-for="item in options"
-        :to="item.path"
+        :to="item"
         :key="item.name + item.path"
         :icon="item.meta.icon"
         replace
@@ -33,16 +33,12 @@ export default {
   computed: {},
   watch: {},
   created() {
-    const root = this.$router.options.routes[0]
-
-    root.children.map((v) => {
-      v.path = root.path + v.path
-    })
-    console.log()
-    this.options = root.children
+    this.options = this.$router.options.routes[0].children
   },
   mounted() {},
-  methods: {},
+  methods: {
+    formatRoutes() {}
+  },
   components: {}
 }
 </script>
