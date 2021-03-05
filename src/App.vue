@@ -35,4 +35,7 @@ body {
   height: 100%;
   overflow: hidden !important;
 }
+img {
+  content: normal !important;
+}
 </style>
