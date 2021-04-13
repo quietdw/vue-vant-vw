@@ -10,10 +10,10 @@ module.exports = {
         plugins: [
           autoprefixer(),
           pxtoviewport({
-            viewportWidth: 375,
-          }),
-        ],
-      },
-    },
-  },
+            viewportWidth: 375
+          })
+        ]
+      }
+    }
+  }
 }
